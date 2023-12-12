@@ -1,0 +1,55 @@
+table, tr, th {
+    border: 1px solid black;
+  }
+
+  th
+   {
+background-color:skyblue ;
+}
+p{
+  font-size: 20px;  
+}
+.outer{ 
+    width: 1500px;
+    height: 1800px;
+    border: 2px solid black;
+
+
+    background:radial-gradient(pink,lightblue,lightyellow);
+}
+.outer1
+{
+    background-color:palevioletred;
+}
+.outer3
+{
+    background-color:lightseagreen;
+}
+.outer4
+{
+background-color:palevioletred ;
+}
+.outer5
+{
+background-color: lightseagreen;
+}
+.outer6
+{
+background-color:palevioletred ;
+}
+.outer7
+{
+background-color: lightseagreen;
+}
+.outer8
+{
+    background-color: palevioletred;
+}
+.outer9
+{
+    background-color: chocolate;
+}
+<!--.main
+{
+    background-color:palevioletred;
+}-->
